@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **ai**
 
-- 📫 How to reach me **gurjotgagan@mail.com**
+- 📫 How to reach me **gurjotgagan@gmail.com**
 <p align="left">
 </p>
 
