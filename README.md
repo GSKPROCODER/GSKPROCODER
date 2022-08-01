@@ -1,6 +1,7 @@
+<img src="https://c.tenor.com/Z25t-Dm102AAAAAC/welcome.gif" width="1000" height="400" />
+
 <h1 align="center">Hi 👋, I'm Gurjot singh</h1>
 <h3 align="center">A passionate developer from india</h3>
-<img src="https://c.tenor.com/Z25t-Dm102AAAAAC/welcome.gif" width="1000" height="400" />
 
 - 🔭 I’m currently working on **new projects**
 
