@@ -1,4 +1,5 @@
-<img src="https://c.tenor.com/Z25t-Dm102AAAAAC/welcome.gif" width="1000" height="400" />
+<img src="<div style="" width="1000" height="400" />
+                                                 <iframe src="https://giphy.com/embed/9sQp89rlBxx3fF65TR" width="480" height="160" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/welcome-blanc-bienvenue-9sQp89rlBxx3fF65TR">via GIPHY</a></p>
 
 <h1 align="center">Hi 👋, I'm Gurjot singh</h1>
 <h3 align="center">A passionate developer from india</h3>
