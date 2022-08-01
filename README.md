@@ -1,4 +1,4 @@
-<img src="<div style="https://giphy.com/embed/9sQp89rlBxx3fF65TR" width="1000" height="400" />
+<img src="https://media0.giphy.com/media/9sQp89rlBxx3fF65TR/giphy.gif?cid=790b761176d0c31cedb488b6f90c82e5979a9d4778d53736&rid=giphy.gif&ct=s" width="1000" height="400" />
                                                 
 
 <h1 align="center">Hi 👋, I'm Gurjot singh</h1>
