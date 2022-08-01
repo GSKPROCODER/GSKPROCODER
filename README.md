@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gurjot singh</h1>
 <h3 align="center">A passionate developer from india</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gskprocoder" alt="gskprocoder" /></a> </p>
+
 - 🔭 I’m currently working on **new projects**
 
 - 🌱 I’m currently learning **ai**
