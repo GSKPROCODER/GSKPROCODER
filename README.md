@@ -50,6 +50,6 @@ I'm a **junior** student at Gulzar group of institutes (MUST) 🏛. A passionate
 <details>	
   <br/>
   <summary><b>🤝 Like My Work:</b></summary>
-  <a href="https://www.buymeacoffee.com/ahmedsaed" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" >
+  <a href="https://buymeacoffee.com/gurjotgaga2" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" >
   </a>
 </details>
