@@ -33,7 +33,7 @@ I'm a student at Gulzar group of institutes (GGI) 🏛. A passionate learner who
   	  <li><b>OS:</b> Fedora Linux </li>
 	    <li><b>Laptop: </b> Lenovo (i5)</li>
 	    <li><b>PC: </b> Intel Core I5, 16GB Ram, GTX 1050ti </li>
-  	  <li><b>Browser: </b> Zen </li>
+  	  <li><b>Browser: </b> Firefox </li>
 	    <li><b>Terminal: </b> ZSH </li>
 	    <li><b>Code Editor:</b> VSCode </li>
 	  </ul>	
