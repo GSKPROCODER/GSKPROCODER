@@ -39,8 +39,8 @@ I'm a **junior** student at Gulzar group of institutes (MUST) 🏛. A passionate
   <summary><b>⚙️ My Workflow And Tools</b></summary>
   	<ul>
   	  <li><b>OS:</b> Fedora Linux </li>
-	    <li><b>Laptop: </b> Lenovo Ideapad 320 (i5)</li>
-	    <li><b>PC: </b> Intel Core I7, 16GB Ram, AMD RX 470 </li>
+	    <li><b>Laptop: </b> Lenovo (i5)</li>
+	    <li><b>PC: </b> Intel Core I5, 16GB Ram, GTX 1050ti </li>
   	  <li><b>Browser: </b> Zen </li>
 	    <li><b>Terminal: </b> ZSH </li>
 	    <li><b>Code Editor:</b> VSCode </li>
