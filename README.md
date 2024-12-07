@@ -27,7 +27,7 @@ I'm a **junior** student at Gulzar group of institutes (MUST) 🏛. A passionate
 
 ### ☄️ Github Streaks:
 <div align="center">
-	<a href="https://github.com/Ahmedsaed">
+	<a href="https://github.com/GSKPROCODER">
 	  <img align="center" height="150em" src="github_streak_image.svg" />
 	</a>
 </div>
