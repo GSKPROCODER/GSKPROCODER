@@ -1,8 +1,6 @@
 ## Hi there 👋, I am [GURJOT SINGH](https://github.com/GSKPROCODER)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://ahmedsaed.me)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedsaed26)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ahmedsaedabdo)
-[![YouTube](https://img.shields.io/badge/Ahmed%20Saed-%23FF0000.svg?style=for-the-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCtnp_3Ruw3jv1TaQ0h6fgkw/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://gurjotsinghkalsi.tech)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zyrvontek)
 
 I'm a **junior** student at Gulzar group of institutes (MUST) 🏛. A passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into **Artificial Intelligence** 🤖 and **Low-Level Software Development** 🔗.
 
