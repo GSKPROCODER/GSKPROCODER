@@ -7,11 +7,10 @@ I'm a student at Gulzar group of institutes (GGI) 🏛. A passionate learner who
 ### 👨‍💻 Talking about me:
 <img align="right" width="400" alt="" src="https://github.com/GSKPROCODER/GSKPROCODER/blob/main/undraw_hello_re_3evm.svg" />
 
-- 🛠 I’m currently working with C for low-level programming, and Python and Tensorflow for AI
+- 🛠 I’m currently working with C++ for low-level programming, and Python and Tensorflow for AI
 - 🔭 I’m currently working on Web frameworks
 - 🌱 I’m currently learning Software Development
 - 📫 How to reach me: kalsigurjotsingh@gmail.com
-- ❤️ Fell in love with Fedora Linux
 - ⚡ Fun fact: pizza 🍕 is the volume of a cylinder whose radius z and depth a
 
 ### LANGUAGES AND TOOLS
